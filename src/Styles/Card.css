@@ -1,0 +1,59 @@
+.card {
+  margin: 20px 10px 0px 10px;
+  width: 25rem;
+  height: 13rem;
+  border: 2px solid white;
+}
+
+.card-title {
+  margin-bottom: 5px;
+  margin-top: -54px;
+  margin-right: 2px;
+  margin-left: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  max-width: 21.5rem;
+  min-height: 27px;
+  border-radius: 5px;
+}
+
+.row {
+  outline: none !important;
+}
+
+.button-close {
+  margin-left: 350px;
+  margin-right: -10px;
+  margin-top: 5px;
+  margin-bottom: 25px;
+  border-radius: 50%;
+  background-color: gray;
+  height: 30px;
+  width: 30px;
+  color: white;
+  outline: none !important;
+}
+
+.button-close:hover {
+  color: black;
+  background-color: red;
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+
+.iconoClima {
+  margin-top:-70px;
+  margin-left: -75px;
+}
+
+.p-cards {
+  background-color: black;
+  color:white;
+  max-width: min-content;
+  text-align: center;
+}

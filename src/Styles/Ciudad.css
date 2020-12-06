@@ -1,0 +1,70 @@
+.ciudad {
+    color:white;
+    height: 700px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+}
+.div-altern {
+    background-color: black;
+    padding-left: 10px;
+    border-radius: 20px;
+}
+
+.container {
+    background-color: grey;
+    text-align: left;
+    max-width: 33%;
+    margin:50px 350px 10px -50px;
+    border-radius: 25px;
+    padding: 20px;
+    font-size: 2rem;
+    display: inline-block;
+}
+
+.img-detail {
+    display: inline-block;
+    height: 250px;
+    width: 400px;
+    margin-bottom: -100px;
+    border-radius: 20px;
+}
+
+.img-weather {
+    display: inline-block;
+    height: 400px;
+    width: 400px;
+    margin-top: -800px;
+    border-radius: 20px;
+    margin-left: 350px;
+}
+
+.img-welcome-gif {
+    display: inline-block;
+    height: 150px;
+    width: 200px;
+    margin-top: -850px;
+    border-radius: 20px;
+}
+
+.back-div{
+    text-align: center;
+}
+
+.button-detail {
+    justify-content: center;
+    margin: 40px 0 5px 0;
+    border-radius: 10px;
+    background-color: rgb(2, 2, 139);
+    color: white;
+    outline: none !important;
+}
+
+.button-detail:hover {
+    background-color:white;
+    color: rgb(2, 2, 139);
+}

@@ -1,0 +1,16 @@
+.img-hor-about {
+    margin:5px 3px 2px 3px;
+    border-radius: 20px;
+}
+.img-ver-about {
+    margin:3px;
+    border-radius: 10px;
+}
+
+.text-intro {
+    font-family: cursive;
+}
+
+body {
+    background-color: black;
+}

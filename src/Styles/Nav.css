@@ -1,0 +1,74 @@
+
+.img-nav {
+  display: inline-block;
+  align-content: top;
+  margin: 8px 10px;
+  border-radius: 20px;
+}
+.img-gif {
+  display: inline-block;
+  align-content: top;
+  border-radius: 20px;
+  margin-right: 180px;
+  margin-top: 5px;
+}
+
+.img-gif-cards {
+  display: inline-block;
+  align-content: top;
+  border-radius: 20px;
+  margin-top: 5px;
+}
+
+
+.img-arrow-gif {
+  display: inline-block;
+  border-radius: 5px;
+  margin-left: 180px;
+}
+
+.search-input {
+  border-radius: 10px;
+  margin:20px;
+  padding: 6px 3px;
+  border:0;
+  outline: none;
+}
+
+.button-input {
+  border-radius: 50%;
+  border: 2px solid white;
+  background-color: rgb(97, 90, 90);
+  margin-right: 50px;
+  padding: 15px 4px;
+  color: white;
+  outline: none;
+}
+.button-input:hover{
+  border: 2px solid  rgb(97, 90, 90);
+  background-color: green;
+  color: black;
+}
+.button-start {
+ margin-right: 50px;
+ border-radius: 10px;
+ border: black;
+ padding:5px;
+ background-color: rgb(148, 143, 143);
+ color: white;
+}
+
+.button-start:hover {
+  color: blue;
+  background-color: black;
+}
+
+.p-nav {
+  margin:0px;
+  margin-left: -130px;
+}
+
+.p-nav-card {
+  margin:0px;
+  margin-left: 45px;
+}
