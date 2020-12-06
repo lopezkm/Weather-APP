@@ -42,7 +42,7 @@ function App() {
           };
           setCities(oldCities => [...oldCities, ciudad]);
         } else {
-          alert("Ciudad no encontrada");
+          alert("City not found");
         }
       });
   }
